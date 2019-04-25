@@ -4,6 +4,7 @@ import android.app.Application;
 
 import com.easy.tools.EasyTools;
 
+
 public class App extends Application {
 
     @Override
