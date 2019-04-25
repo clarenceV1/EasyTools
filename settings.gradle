@@ -1,0 +1,4 @@
+include ':app'
+
+include(':EasyTools')
+project(':EasyTools').projectDir = new File('./EasyTools')
